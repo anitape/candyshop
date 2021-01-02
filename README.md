@@ -16,22 +16,22 @@ Finally, the client can confirm the order or go back to previous order states an
 Screeshots below illustrate views of the application.
 
 Main Page
-![Screenshot](src/main/app/public/main-page.JPG)
+![Screenshot](src/main/app/public/main-page.jpg)
 
 Product Category <i>Birthday Party</i>
-![Screenshot](src/main/app/public/products.JPG)
+![Screenshot](src/main/app/public/products.jpg)
 
 Shopping Cart
-![Screenshot](src/main/app/public/shopping-cart.JPG)
+![Screenshot](src/main/app/public/shopping-cart.jpg)
 
 Delivery Information Form
-![Screenshot](src/main/app/public/form.JPG)
+![Screenshot](src/main/app/public/form.jpg)
 
 Order Summary
-![Screenshot](src/main/app/public/order-summary.JPG)
+![Screenshot](src/main/app/public/order-summary.jpg)
 
 Thank You page
-![Screenshot](src/main/app/public/thankyou.JPG)
+![Screenshot](src/main/app/public/thankyou.jpg)
 
 ## Installing the project
 Candyshop is a maven project, therefore to launch this application you need run mvn install at project root.
