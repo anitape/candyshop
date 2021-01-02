@@ -1,0 +1,15 @@
+
+
+#H2
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2
+#JPA
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=create-drop
+# Datasource
+spring.datasource.url=jdbc:h2:file:~/testikanta
+spring.datasource.username=common
+spring.datasource.password=salasana43218765
+spring.datasource.driver-class-name=org.h2.Driver
+# Data Rest
+spring.data.rest.base-path: /api

@@ -1,2 +1,3 @@
-# candyshop
-Candyshop is a single-page application which includes candy products, a shopping cart and order processing option.
+Project is maven project with spring. Backend is done with java and frontend with react javascript. Database uses mysql and is deployed at remote server. Currently the database can only be accessed if there is vpn connection to metropolia.
+
+In order to launch this application you need to first run mvn install at project root. This composes a jar file in "target" folder. Executing this jar file launches both the frontend at localhost:8080 and the backend. Application is ready to use at this point.

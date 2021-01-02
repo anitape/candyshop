@@ -1,0 +1,5 @@
+[1104/132700.176:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1105/134000.960:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1119/140128.025:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1122/165044.808:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1203/141229.820:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
