@@ -16,24 +16,24 @@ Finally, the client can confirm the order or go back to previous order states an
 Screeshots below illustrate views of the application.
 
 
-###Main Page
+### Main Page
 ![Screenshot](src/main/app/public/main-page.jpg)
 
 
-###Product Category <i>Birthday Party</i>
+### Product Category <i>Birthday Party</i>
 ![Screenshot](src/main/app/public/products.jpg)
 
 
-###Shopping Cart
+### Shopping Cart
 ![Screenshot](src/main/app/public/shopping-cart.jpg)
 
-###Delivery Information Form
+### Delivery Information Form
 ![Screenshot](src/main/app/public/form.jpg)
 
-###Order Summary
+### Order Summary
 ![Screenshot](src/main/app/public/order-summary.jpg)
 
-###Thank You page
+### Thank You Page
 ![Screenshot](src/main/app/public/thankyou.jpg)
 
 ## Installing the project
