@@ -13,7 +13,7 @@ After that there will appear an order summary with all products, total costs and
 Finally, the client can confirm the order or go back to previous order states and make some changes. 
 
 ## Application images
-Screeshots below illustrate views of the application.
+Screenshots below illustrate views of the application.
 
 
 ### Main Page
